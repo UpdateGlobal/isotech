@@ -129,32 +129,34 @@
 					<div class="big-title clearfix">
 						<h3>Solicita tus productos, brindanos tus datos, el codigo de producto y te contactaremos</h3>
 					</div><!-- end big title -->
-                    <div class="contact_form">
-                    <div id="message"></div>
-                        <form id="contactform" action="http://jollythemes.com/jollymedic/jollymedic-wide/contact.php" role="form" class="row online_form_builder_big">
+                    
+                    
+                        <form  action="envio.php" method="post">
+                          <div class="row online_form_builder_big">
                             <div class="col-md-6">
-                                <label for="name">Nombres y Apellidos</label>
-                                <input type="text" class="form-control" id="name" placeholder="">
+                                <label for="nombre">Nombres y Apellidos</label>
+                                <input type="text" name="nombre" class="form-control" id="name">
                             </div>
                             <div class="col-md-6">
-                                <label for="email">Email</label>
-                                <input type="text" class="form-control" id="email">
+                                <label for="correo">Email</label>
+                                <input type="text" name="correo" class="form-control" id="email">
                             </div>
                             <div class="col-md-12">
-                                <label for="website">Asunto</label>
-                                <input type="text" class="form-control" id="website">
+                                <label for="asunto">Asunto</label>
+                                <input type="text" name="asunto" class="form-control" id="website">
                             </div>
                             <div class="clearfix"></div>
                             <div class="col-md-12">
-                            <label for="comments">Tu mensaje</label>
-                            <textarea class="form-control" id="comments"></textarea>
+                            <label for="mensaje">Tu mensaje</label>
+                            <textarea class="form-control" name="mensaje" id="comments"></textarea>
                             </div>
                             <div class="clearfix"></div>
                             <div class="col-md-12">
-                            <button type="submit" value="SEND" id="submit" class="btn btn-lg btn-primary pull-right">CONTACTARME</button>   
+                            <button type="submit"  class="btn btn-lg btn-primary pull-right">CONTACTARME</button>   
                             </div>   
+                            </div>
                         </form>
-                     </div>
+                     
 				</div>
 				<div class="col-lg-5 col-md-5 col-sm-5 col-xs-12">
 					<div class="big-title clearfix">
