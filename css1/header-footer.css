@@ -24,11 +24,12 @@ TABLE OF CONTENTS END
 1 - SITE HEADER
 ---------------------------------------------------
 */
+
 #site-header {
   width: 100%;
   position: fixed !important;
   z-index: 9999;
-  background-color: rgba(0, 98, 136, 0.8);
+  background-color: black;
 }
 
 #site-header:before {
@@ -569,7 +570,7 @@ TABLE OF CONTENTS END
 ---------------------------------------------------
 */
 #site-footer {
-  background: #292929 no-repeat center top / cover;
+  background: #e95a0d no-repeat center top / cover;
   padding: 65px 0 10px;
   position: relative;
   z-index: 1;
@@ -725,7 +726,7 @@ footer img {
 
 /* --- 2.02 - DARK FOOTER --- */
 .dark-footer:before {
-  background: #292929;
+  background: black;
 }
 
 .dark-footer header {
