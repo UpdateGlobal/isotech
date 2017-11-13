@@ -75,7 +75,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a href="index.html" class="navbar-brand"><img src="images/logo.png" alt="Jollymedic"></a>
+                    <a href="index.php" class="navbar-brand"><img src="images/logo.png" alt="Jollymedic"></a>
         		</div><!-- end navbar-header -->
                 
 				<div id="navbar-collapse-1" class="navbar-collapse collapse navbar-right">
@@ -83,22 +83,22 @@
                        
                            
                         </li><!-- end standard drop down -->
-                        <li><a href="nosotros.html">NOSOTROS</a></li>
+                        <li><a href="nosotros.php">NOSOTROS</a></li>
                         </li><!-- end standard drop down -->
 				           <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">PRODUCTOS</a>
                             <ul class="dropdown-menu" role="menu">
-                                <li><a href="barnices.html">Barnices</a></li>
-                                <li><a href="placasaislantes.html">Placas Aislantes</a></li>
-                                <li><a href="teflon.html">Teflón</a></li>
-                                <li><a href="silicona.html">Silicona</a></li>
-                                <li><a href="otrosmate.html">Otros materiales Aislantes</a></li>
+                                <li><a href="barnices.php">Barnices</a></li>
+                                <li><a href="placasaislantes.php">Placas Aislantes</a></li>
+                                <li><a href="teflon.php">Teflón</a></li>
+                                <li><a href="silicona.php">Silicona</a></li>
+                                <li><a href="otrosmate.php">Otros materiales Aislantes</a></li>
                                 <!--<li><a href="shop-cart.html">Shopping Cart</a></li> -->             
                             </ul><!-- end dropdown-menu -->
                         </li><!-- end standard drop down -->
                        
-                        <li class="active"><a href="contacto.html">CONTACTO</a></li>
+                        <li class="active"><a href="contacto.php">CONTACTO</a></li>
 
-                          <li><a href="blog-1.html">BLOG</a>
+                          <li><a href="blog-1.php">BLOG</a>
                           </li><!-- end standard drop down -->
                       <!--<li class="last_item"><a href="shop.html"><i class="fa fa-shopping-cart"></i></a></li> -->
 					</ul><!-- end navbar-nav -->
@@ -146,7 +146,7 @@
                             data-speed="1600"
                             data-start="1100"
                             data-easing="Back.easeInOut"
-                            data-endspeed="300"><a href="otrosmate.html" class="btn btn-dark btn-lg">Más Info</a>
+                            data-endspeed="300"><a href="otrosmate.php" class="btn btn-dark btn-lg">Más Info</a>
                         </div>
                         
                         
@@ -199,7 +199,7 @@
                             data-speed="1600"
                             data-start="1100"
                             data-easing="Back.easeInOut"
-                            data-endspeed="300"><a href="silicona.html" class="btn btn-dark btn-lg">Más Info</a>
+                            data-endspeed="300"><a href="silicona.php" class="btn btn-dark btn-lg">Más Info</a>
                         </div>                       
                         
                         
@@ -251,7 +251,7 @@
                             data-speed="1600"
                             data-start="1100"
                             data-easing="Back.easeInOut"
-                            data-endspeed="300"><a href="teflon.html" class="btn btn-dark btn-lg">Más Info</a>
+                            data-endspeed="300"><a href="teflon.php" class="btn btn-dark btn-lg">Más Info</a>
                         </div>                      
                         
                         
@@ -349,7 +349,7 @@
                                 </div><!-- end magnifier -->
                             </div><!-- end entry -->
                             <div class="blog-carousel-header">
-                                <h3><a title="" href="blog-single.html">Barnices</a></h3>
+                                <h3><a title="" href="blog-single.php">Barnices</a></h3>
                                 <!-- <div class="blog-carousel-meta">
                                     <span><i class="fa fa-calendar"></i> April 01, 2014</span>
                                     <span><i class="fa fa-comment"></i> <a href="#">03 Comments</a></span>
@@ -359,7 +359,7 @@
                             <div class="blog-carousel-desc">
                                 <p>Class aptent torquent per conubia nostra, per inceptos himenaeos. Aenean vel faucibus nunc, et venenatis magna. In hac habitasse platea dictumst. </p>
                             </div><!-- end blog-carousel-desc -->
-                            <a href="barnices.html" class="btn btn-dark btn-sm">VER GALERÍA</a>
+                            <a href="barnices.php" class="btn btn-dark btn-sm">VER GALERÍA</a>
                         </div><!-- end blog-carousel -->
                     </div><!-- end col -->
                     
@@ -375,7 +375,7 @@
                                 </div><!-- end magnifier -->
                             </div><!-- end entry -->
                             <div class="blog-carousel-header">
-                                <h3><a title="" href="blog-single.html">Placas Aislantes</a></h3>
+                                <h3><a title="" href="blog-single.php">Placas Aislantes</a></h3>
                                 <!-- <div class="blog-carousel-meta">
                                     <span><i class="fa fa-calendar"></i> April 01, 2014</span>
                                     <span><i class="fa fa-comment"></i> <a href="#">03 Comments</a></span>
@@ -385,7 +385,7 @@
                             <div class="blog-carousel-desc">
                                 <p>Class aptent torquent per conubia nostra, per inceptos himenaeos. Aenean vel faucibus nunc, et venenatis magna. In hac habitasse platea dictumst. </p>
                             </div><!-- end blog-carousel-desc -->
-                            <a href="placasaislantes.html" class="btn btn-dark btn-sm">VER GALERÍA</a>
+                            <a href="placasaislantes.php" class="btn btn-dark btn-sm">VER GALERÍA</a>
                         </div><!-- end blog-carousel -->
                     </div><!-- end col -->
                     
@@ -401,7 +401,7 @@
                                 </div><!-- end magnifier -->
                             </div><!-- end entry -->
                             <div class="blog-carousel-header">
-                                <h3><a title="" href="blog-single.html">Teflón </a></h3>
+                                <h3><a title="" href="blog-single.php">Teflón </a></h3>
                                 <!-- <div class="blog-carousel-meta">
                                     <span><i class="fa fa-calendar"></i> April 01, 2014</span>
                                     <span><i class="fa fa-comment"></i> <a href="#">03 Comments</a></span>
@@ -411,7 +411,7 @@
                             <div class="blog-carousel-desc">
                                 <p>Class aptent torquent per conubia nostra, per inceptos himenaeos. Aenean vel faucibus nunc, et venenatis magna. In hac habitasse platea dictumst. </p>
                             </div><!-- end blog-carousel-desc -->
-                            <a href="teflon.html" class="btn btn-dark btn-sm">VER GALERÍA</a>
+                            <a href="teflon.php" class="btn btn-dark btn-sm">VER GALERÍA</a>
                         </div><!-- end blog-carousel -->
                     </div><!-- end col -->
 
@@ -422,12 +422,12 @@
                                 <div class="magnifier">
                                     <div class="buttons">
                                         <!-- <a class="st" rel="bookmark" href="blog-single.html"><i class="fa fa-link"></i></a> -->
-                                        <a class="st" rel="bookmark" href="barnices.html"><i class="fa fa-eye"></i></a>
+                                        <a class="st" rel="bookmark" href="barnices.php"><i class="fa fa-eye"></i></a>
                                     </div><!-- end buttons -->
                                 </div><!-- end magnifier -->
                             </div><!-- end entry -->
                             <div class="blog-carousel-header">
-                                <h3><a title="" href="blog-single.html">Silicona</a></h3>
+                                <h3><a title="" href="blog-single.php">Silicona</a></h3>
                                 <!-- <div class="blog-carousel-meta">
                                     <span><i class="fa fa-calendar"></i> April 01, 2014</span>
                                     <span><i class="fa fa-comment"></i> <a href="#">03 Comments</a></span>
@@ -437,7 +437,7 @@
                             <div class="blog-carousel-desc">
                                 <p>Class aptent torquent per conubia nostra, per inceptos himenaeos. Aenean vel faucibus nunc, et venenatis magna. In hac habitasse platea dictumst. </p>
                             </div><!-- end blog-carousel-desc -->
-                            <a href="silicona.html" class="btn btn-dark btn-sm">VER GALERÍA</a>
+                            <a href="silicona.php" class="btn btn-dark btn-sm">VER GALERÍA</a>
                         </div><!-- end blog-carousel -->
                     </div><!-- end col -->
 
@@ -448,12 +448,12 @@
                                 <div class="magnifier">
                                     <div class="buttons">
                                         <!-- <a class="st" rel="bookmark" href="blog-single.html"><i class="fa fa-link"></i></a> -->
-                                        <a class="st" rel="bookmark" href="barnices.html"><i class="fa fa-eye"></i></a>
+                                        <a class="st" rel="bookmark" href="barnices.php"><i class="fa fa-eye"></i></a>
                                     </div><!-- end buttons -->
                                 </div><!-- end magnifier -->
                             </div><!-- end entry -->
                             <div class="blog-carousel-header">
-                                <h3><a title="" href="blog-single.html">Otros Materiales Aislantes</a></h3>
+                                <h3><a title="" href="blog-single.php">Otros Materiales Aislantes</a></h3>
                                 <!-- <div class="blog-carousel-meta">
                                     <span><i class="fa fa-calendar"></i> April 01, 2014</span>
                                     <span><i class="fa fa-comment"></i> <a href="#">03 Comments</a></span>
@@ -463,7 +463,7 @@
                             <div class="blog-carousel-desc">
                                 <p>Class aptent torquent per conubia nostra, per inceptos himenaeos. Aenean vel faucibus nunc, et venenatis magna. In hac habitasse platea dictumst. </p>
                             </div><!-- end blog-carousel-desc -->
-                            <a href="otrosmate.html" class="btn btn-dark btn-sm">VER GALERÍA</a>
+                            <a href="otrosmate.php" class="btn btn-dark btn-sm">VER GALERÍA</a>
                         </div><!-- end blog-carousel -->
                     </div><!-- end col -->
 
@@ -479,7 +479,7 @@
                     <p>Visita nuestra galería o envianos un mensaje. Te atenderemos a la brevedad</p>
                 </div>
                 <div class="col-lg-2">
-                    <a class="btn pull-right btn-dark btn-lg margin-top" href="barnices.html">Has un pedido</a>
+                    <a class="btn pull-right btn-dark btn-lg margin-top" href="barnices.php">Has un pedido</a>
                 </div>
             </div><!-- end messagebox -->
 	
@@ -552,9 +552,9 @@
                         <ul class="recent_posts_widget">
                             <li>
                                 <img src="demos/footer_img_01.png" alt="" />
-                                <h4><a href="blog-noticia.html">Temporibus autem quibusdam et aut</a></h4>
+                                <h4><a href="blog-noticia.php">Temporibus autem quibusdam et aut</a></h4>
                                 <span>Febrero 16, 2017</span>
-                                <a class="readmore" href="blog-noticia.html" title="">Seguir leyendo</a>
+                                <a class="readmore" href="blog-noticia.php" title="">Seguir leyendo</a>
                             </li>
                            
                            
@@ -569,9 +569,9 @@
                         <ul class="recent_posts_widget">
                             <li>
                                 <img src="demos/footer_img_01.png" alt="" />
-                                <h4><a href="blog-noticia.html">Temporibus autem quibusdam et aut</a></h4>
+                                <h4><a href="blog-noticia.php">Temporibus autem quibusdam et aut</a></h4>
                                 <span>Abril 16, 2017</span>
-                                <a class="readmore" href="blog-noticia.html" title="">Seguir leyendo</a>
+                                <a class="readmore" href="blog-noticia.php" title="">Seguir leyendo</a>
                             </li>
                           
                            

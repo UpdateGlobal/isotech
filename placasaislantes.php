@@ -66,46 +66,7 @@
         </div><!-- end container -->
     </div><!-- end topbar -->
     
-    <header class="header">
-        <div class="container">
-            <nav class="navbar yamm navbar-default">
-                <div class="navbar-header">
-                    <button type="button" data-toggle="collapse" data-target="#navbar-collapse-1" class="navbar-toggle">
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <a href="index.html" class="navbar-brand"><img src="images/logo.png" alt="Jollymedic"></a>
-                </div><!-- end navbar-header -->
-                
-                <div id="navbar-collapse-1" class="navbar-collapse collapse navbar-right">
-                    <ul class="nav navbar-nav">
-                        <li><a href="index.html">INICIO</a></li>
-                           
-                        </li><!-- end standard drop down -->
-                        <li><a href="nosotros.html">NOSOTROS</a></li>
-                        </li><!-- end standard drop down -->
-                           <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">PRODUCTOS</a>
-                            <ul class="dropdown-menu" role="menu">
-                                <li><a href="barnices.html">Barnices</a></li>
-                                <li><a href="placasaislantes.html">Placas Aislantes</a></li>
-                                <li><a href="teflon.html">Teflón</a></li>
-                                <li><a href="silicona.html">Silicona</a></li>
-                                <li><a href="otrosmate.html">Otros materiales Aislantes</a></li>
-                                <!--<li><a href="shop-cart.html">Shopping Cart</a></li> -->             
-                            </ul><!-- end dropdown-menu -->
-                        </li><!-- end standard drop down -->
-                       
-                        <li><a href="contacto.html">CONTACTO</a></li>
-
-                          <li><a href="blog-1.html">BLOG</a>
-                          </li><!-- end standard drop down -->
-                      <!--<li class="last_item"><a href="shop.html"><i class="fa fa-shopping-cart"></i></a></li> -->
-                    </ul><!-- end navbar-nav -->
-                </div><!-- #navbar-collapse-1 -->
-            </nav><!-- end navbar yamm navbar-default -->
-        </div><!-- end container -->
-    </header><!-- end header -->
+    <?php include("include/header.php"); ?>
 	<div class="shadow"></div>
 
 	<div class="post-wrapper-top clearfix">
@@ -113,7 +74,7 @@
 			<div class="col-lg-12">
 				<h2>PLACAS AISLANTES</h2>
                 <ul class="breadcrumb pull-right">
-                    <li><a href="index.html">Inicio</a></li>
+                    <li><a href="index.php">Inicio</a></li>
                     <li>Placas aislantes</li>
                 </ul>
 			</div>
@@ -151,7 +112,7 @@
                             <div class="magnifier custom-magnifier">
                                 <div class="buttons">
                                     <!-- <a class="sg" rel="bookmark" href="contacto.html"><i class="fa fa-link"></i></a> -->
-                                    <a class="st" rel="bookmark" href="contacto.html"><i class="fa fa-shopping-cart"></i></a>
+                                    <a class="st" rel="bookmark" href="contacto.php"><i class="fa fa-shopping-cart"></i></a>
                                     <h4>Solicitar</h4>
                                 </div><!-- end buttons -->
                             </div><!-- end magnifier -->
@@ -169,7 +130,7 @@
                             <div class="magnifier custom-magnifier">
                                 <div class="buttons">
                                     <!-- <a class="sg" rel="bookmark" href="contacto.html"><i class="fa fa-link"></i></a> -->
-                                    <a class="st" rel="bookmark" href="contacto.html"><i class="fa fa-shopping-cart"></i></a>
+                                    <a class="st" rel="bookmark" href="contacto.php"><i class="fa fa-shopping-cart"></i></a>
                                     <h4>Solicitar</h4>
                                 </div><!-- end buttons -->
                             </div><!-- end magnifier -->
@@ -187,7 +148,7 @@
                             <div class="magnifier custom-magnifier">
                                 <div class="buttons">
                                     <!-- <a class="sg" rel="bookmark" href="contacto.html"><i class="fa fa-link"></i></a> -->
-                                    <a class="st" rel="bookmark" href="contacto.html"><i class="fa fa-shopping-cart"></i></a>
+                                    <a class="st" rel="bookmark" href="contacto.php"><i class="fa fa-shopping-cart"></i></a>
                                     <h4>Solicitar</h4>
                                 </div><!-- end buttons -->
                             </div><!-- end magnifier -->
@@ -205,7 +166,7 @@
                             <div class="magnifier custom-magnifier">
                                 <div class="buttons">
                                     <!-- <a class="sg" rel="bookmark" href="contacto.html"><i class="fa fa-link"></i></a> -->
-                                    <a class="st" rel="bookmark" href="contacto.html"><i class="fa fa-shopping-cart"></i></a>
+                                    <a class="st" rel="bookmark" href="contacto.php"><i class="fa fa-shopping-cart"></i></a>
                                     <h4>Solicitar</h4>
                                 </div><!-- end buttons -->
                             </div><!-- end magnifier -->
@@ -238,22 +199,22 @@
                         </li>
                         <li>
                         <a href="#"><img src="images/placas/1.jpg" alt="" /><strong>PLACAS AISLANTES</strong></a>
-                            <a class="readmore_widget" href="barnices.html">Visitar Galería</a>
+                            <a class="readmore_widget" href="placasaislantes.php">Visitar Galería</a>
 
                         </li>
                         <li>
                         <a href="#"><img src="images/teflon/1.jpg" alt="" /><strong>TEFLÓN</strong></a>
-                        <a class="readmore_widget" href="barnices.html">Visitar Galería</a>
+                        <a class="readmore_widget" href="teflon.php">Visitar Galería</a>
 
                         </li>
                         <li>
                         <a href="#"><img src="images/silicona/1.jpg" alt="" /><strong>SILICONA</strong></a>
-                            <a class="readmore_widget" href="barnices.html">Visitar Galería</a>
+                            <a class="readmore_widget" href="silicona.php">Visitar Galería</a>
 
                         </li>
                           <li>
                         <a href="#"><img src="images/otrosmate/1.jpg" alt="" /><strong>OTROS MATERIALES AISLANTES</strong></a>
-                            <a class="readmore_widget" href="barnices.html">Visitar Galería</a>
+                            <a class="readmore_widget" href="otrosmate.php">Visitar Galería</a>
                         </li>
 					</ul><!-- recent posts -->  
                 </div><!-- end widget -->
@@ -285,9 +246,9 @@
                         <ul class="recent_posts_widget">
                             <li>
                                 <img src="demos/footer_img_01.png" alt="" />
-                                <h4><a href="blog-noticia.html">Temporibus autem quibusdam et aut</a></h4>
+                                <h4><a href="blog-noticia.php">Temporibus autem quibusdam et aut</a></h4>
                                 <span>Febrero 16, 2017</span>
-                                <a class="readmore" href="blog-noticia.html" title="">Seguir leyendo</a>
+                                <a class="readmore" href="blog-noticia.php" title="">Seguir leyendo</a>
                             </li>
                           
                            
@@ -302,9 +263,9 @@
                         <ul class="recent_posts_widget">
                             <li>
                                 <img src="demos/footer_img_01.png" alt="" />
-                                <h4><a href="blog-noticia.html">Temporibus autem quibusdam et aut</a></h4>
+                                <h4><a href="blog-noticia.php">Temporibus autem quibusdam et aut</a></h4>
                                 <span>Abril 16, 2017</span>
-                                <a class="readmore" href="blog-noticia.html" title="">Seguir leyendo</a>
+                                <a class="readmore" href="blog-noticia.php" title="">Seguir leyendo</a>
                             </li>
                           
                            

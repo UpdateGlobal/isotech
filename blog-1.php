@@ -66,46 +66,7 @@
         </div><!-- end container -->
     </div><!-- end topbar -->
     
-    <header class="header">
-        <div class="container">
-            <nav class="navbar yamm navbar-default">
-                <div class="navbar-header">
-                    <button type="button" data-toggle="collapse" data-target="#navbar-collapse-1" class="navbar-toggle">
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <a href="index.html" class="navbar-brand"><img src="images/logo.png" alt="Jollymedic"></a>
-                </div><!-- end navbar-header -->
-                
-                <div id="navbar-collapse-1" class="navbar-collapse collapse navbar-right">
-                    <ul class="nav navbar-nav">
-                        <li><a href="index.html">INICIO</a></li>
-                           
-                        </li><!-- end standard drop down -->
-                        <li><a href="nosotros.html">NOSOTROS</a></li>
-                        </li><!-- end standard drop down -->
-                           <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">PRODUCTOS</a>
-                            <ul class="dropdown-menu" role="menu">
-                                <li><a href="barnices.html">Barnices</a></li>
-                                <li><a href="placasaislantes.html">Placas Aislantes</a></li>
-                                <li><a href="teflon.html">Teflón</a></li>
-                                <li><a href="silicona.html">Silicona</a></li>
-                                <li><a href="otrosmate.html">Otros materiales Aislantes</a></li>
-                                <!--<li><a href="shop-cart.html">Shopping Cart</a></li> -->             
-                            </ul><!-- end dropdown-menu -->
-                        </li><!-- end standard drop down -->
-                       
-                        <li class="active"><a href="contacto.html">CONTACTO</a></li>
-
-                          <li><a href="blog-1.html">BLOG</a>
-                          </li><!-- end standard drop down -->
-                      <!--<li class="last_item"><a href="shop.html"><i class="fa fa-shopping-cart"></i></a></li> -->
-                    </ul><!-- end navbar-nav -->
-                </div><!-- #navbar-collapse-1 -->
-            </nav><!-- end navbar yamm navbar-default -->
-        </div><!-- end container -->
-    </header><!-- end header -->
+<?php include("include/header.php"); ?>
 	<div class="shadow"></div>
 
 	<div class="post-wrapper-top clearfix">
@@ -113,7 +74,7 @@
 			<div class="col-lg-12">
 				<h2>ÚLTIMAS NOTICIAS</h2>
                 <ul class="breadcrumb pull-right">
-                    <li><a href="index.html">Inicio</a></li>
+                    <li><a href="index.php">Inicio</a></li>
                     <li>Portada Blog</li>
                 </ul>
 			</div>
@@ -137,7 +98,7 @@
                                     </div><!-- end magnifier -->
                                 </div><!-- end entry -->
                                 <div class="blog-carousel-header">
-                                    <h3><a title="" href="blog-noticia.html">Rerum necessitatibus autem</a></h3>
+                                    <h3><a title="" href="blog-noticia.php">Rerum necessitatibus autem</a></h3>
                                     <div class="blog-carousel-meta">
                                         <span><i class="fa fa-calendar"></i> October 01, 2017</span>
                                     </div><!-- end blog-carousel-meta -->
@@ -145,7 +106,7 @@
                                 <div class="blog-carousel-desc">
                                     <p>Class aptent torquent per conubia nostra, per inceptos himenaeos. Aenean vel faucibus nunc, et venenatis magna. In hac habitasse platea dictumst. </p>
                                 </div><!-- end blog-carousel-desc -->
-                                <a href="blog-noticia.html" class="btn btn-dark btn-sm">Seguir Leyendo...</a>
+                                <a href="blog-noticia.php" class="btn btn-dark btn-sm">Seguir Leyendo...</a>
                             </div><!-- end blog-carousel -->
                         </div><!-- end col -->
 					</div>
@@ -163,7 +124,7 @@
                                     </div><!-- end magnifier -->
                                 </div><!-- end entry -->
                                 <div class="blog-carousel-header">
-                                    <h3><a title="" href="blog-noticia.html">Rerum necessitatibus autem</a></h3>
+                                    <h3><a title="" href="blog-noticia.php">Rerum necessitatibus autem</a></h3>
                                     <div class="blog-carousel-meta">
                                         <span><i class="fa fa-calendar"></i> October 01, 2017</span>
 
@@ -172,7 +133,7 @@
                                 <div class="blog-carousel-desc">
                                     <p>Class aptent torquent per conubia nostra, per inceptos himenaeos. Aenean vel faucibus nunc, et venenatis magna. In hac habitasse platea dictumst. </p>
                                 </div><!-- end blog-carousel-desc -->
-                                <a href="blog-noticia.html" class="btn btn-dark btn-sm">Seguir Leyendo...</a>
+                                <a href="blog-noticia.php" class="btn btn-dark btn-sm">Seguir Leyendo...</a>
                             </div><!-- end blog-carousel -->
                         </div><!-- end col -->
 					</div>
@@ -190,7 +151,7 @@
                                     </div><!-- end magnifier -->
                                 </div><!-- end entry -->
                                 <div class="blog-carousel-header">
-                                    <h3><a title="" href="blog-noticia.html">Rerum necessitatibus autem</a></h3>
+                                    <h3><a title="" href="blog-noticia.php">Rerum necessitatibus autem</a></h3>
                                     <div class="blog-carousel-meta">
                                         <span><i class="fa fa-calendar"></i> October 01, 2017</span>
 
@@ -199,7 +160,7 @@
                                 <div class="blog-carousel-desc">
                                     <p>Class aptent torquent per conubia nostra, per inceptos himenaeos. Aenean vel faucibus nunc, et venenatis magna. In hac habitasse platea dictumst. </p>
                                 </div><!-- end blog-carousel-desc -->
-                                <a href="blog-noticia.html" class="btn btn-dark btn-sm">Seguir Leyendo...</a>
+                                <a href="blog-noticia.php" class="btn btn-dark btn-sm">Seguir Leyendo...</a>
                             </div><!-- end blog-carousel -->
                         </div><!-- end col -->
                     </div>
@@ -217,7 +178,7 @@
                                     </div><!-- end magnifier -->
                                 </div><!-- end entry -->
                                 <div class="blog-carousel-header">
-                                    <h3><a title="" href="blog-noticia.html">Rerum necessitatibus autem</a></h3>
+                                    <h3><a title="" href="blog-noticia.php">Rerum necessitatibus autem</a></h3>
                                     <div class="blog-carousel-meta">
                                         <span><i class="fa fa-calendar"></i> October 01, 2017</span>
 
@@ -226,7 +187,7 @@
                                 <div class="blog-carousel-desc">
                                     <p>Class aptent torquent per conubia nostra, per inceptos himenaeos. Aenean vel faucibus nunc, et venenatis magna. In hac habitasse platea dictumst. </p>
                                 </div><!-- end blog-carousel-desc -->
-                                <a href="blog-noticia.html" class="btn btn-dark btn-sm">Seguir Leyendo...</a>
+                                <a href="blog-noticia.php" class="btn btn-dark btn-sm">Seguir Leyendo...</a>
                             </div><!-- end blog-carousel -->
                         </div><!-- end col -->
                     </div>
@@ -244,7 +205,7 @@
                                     </div><!-- end magnifier -->
                                 </div><!-- end entry -->
                                 <div class="blog-carousel-header">
-                                    <h3><a title="" href="blog-noticia.html">Rerum necessitatibus autem</a></h3>
+                                    <h3><a title="" href="blog-noticia.php">Rerum necessitatibus autem</a></h3>
                                     <div class="blog-carousel-meta">
                                         <span><i class="fa fa-calendar"></i> October 01, 2017</span>
 
@@ -253,7 +214,7 @@
                                 <div class="blog-carousel-desc">
                                     <p>Class aptent torquent per conubia nostra, per inceptos himenaeos. Aenean vel faucibus nunc, et venenatis magna. In hac habitasse platea dictumst. </p>
                                 </div><!-- end blog-carousel-desc -->
-                                <a href="blog-noticia.html" class="btn btn-dark btn-sm">Seguir Leyendo...</a>
+                                <a href="blog-noticia.php" class="btn btn-dark btn-sm">Seguir Leyendo...</a>
                             </div><!-- end blog-carousel -->
                         </div><!-- end col -->
                     </div>
@@ -271,7 +232,7 @@
                                     </div><!-- end magnifier -->
                                 </div><!-- end entry -->
                                 <div class="blog-carousel-header">
-                                    <h3><a title="" href="blog-noticia.html">Rerum necessitatibus autem</a></h3>
+                                    <h3><a title="" href="blog-noticia.php">Rerum necessitatibus autem</a></h3>
                                     <div class="blog-carousel-meta">
                                         <span><i class="fa fa-calendar"></i> October 01, 2017</span>
 
@@ -280,7 +241,7 @@
                                 <div class="blog-carousel-desc">
                                     <p>Class aptent torquent per conubia nostra, per inceptos himenaeos. Aenean vel faucibus nunc, et venenatis magna. In hac habitasse platea dictumst. </p>
                                 </div><!-- end blog-carousel-desc -->
-                                <a href="blog-noticia.html" class="btn btn-dark btn-sm">Seguir Leyendo...</a>
+                                <a href="blog-noticia.php" class="btn btn-dark btn-sm">Seguir Leyendo...</a>
                             </div><!-- end blog-carousel -->
                         </div><!-- end col -->
                     </div>
@@ -298,7 +259,7 @@
                                     </div><!-- end magnifier -->
                                 </div><!-- end entry -->
                                 <div class="blog-carousel-header">
-                                    <h3><a title="" href="blog-noticia.html">Rerum necessitatibus autem</a></h3>
+                                    <h3><a title="" href="blog-noticia.php">Rerum necessitatibus autem</a></h3>
                                     <div class="blog-carousel-meta">
                                         <span><i class="fa fa-calendar"></i> October 01, 2017</span>
 
@@ -307,7 +268,7 @@
                                 <div class="blog-carousel-desc">
                                     <p>Class aptent torquent per conubia nostra, per inceptos himenaeos. Aenean vel faucibus nunc, et venenatis magna. In hac habitasse platea dictumst. </p>
                                 </div><!-- end blog-carousel-desc -->
-                                <a href="blog-noticia.html" class="btn btn-dark btn-sm">Seguir Leyendo...</a>
+                                <a href="blog-noticia.php" class="btn btn-dark btn-sm">Seguir Leyendo...</a>
                             </div><!-- end blog-carousel -->
                         </div><!-- end col -->
                     </div>
@@ -325,7 +286,7 @@
                                     </div><!-- end magnifier -->
                                 </div><!-- end entry -->
                                 <div class="blog-carousel-header">
-                                    <h3><a title="" href="blog-noticia.html">Rerum necessitatibus autem</a></h3>
+                                    <h3><a title="" href="blog-noticia.php">Rerum necessitatibus autem</a></h3>
                                     <div class="blog-carousel-meta">
                                         <span><i class="fa fa-calendar"></i> October 01, 2017</span>
 
@@ -334,7 +295,7 @@
                                 <div class="blog-carousel-desc">
                                     <p>Class aptent torquent per conubia nostra, per inceptos himenaeos. Aenean vel faucibus nunc, et venenatis magna. In hac habitasse platea dictumst. </p>
                                 </div><!-- end blog-carousel-desc -->
-                                <a href="blog-noticia.html" class="btn btn-dark btn-sm">Seguir Leyendo...</a>
+                                <a href="blog-noticia.php" class="btn btn-dark btn-sm">Seguir Leyendo...</a>
                             </div><!-- end blog-carousel -->
                         </div><!-- end col -->
                     </div>
@@ -352,7 +313,7 @@
                                     </div><!-- end magnifier -->
                                 </div><!-- end entry -->
                                 <div class="blog-carousel-header">
-                                    <h3><a title="" href="blog-noticia.html">Rerum necessitatibus autem</a></h3>
+                                    <h3><a title="" href="blog-noticia.php">Rerum necessitatibus autem</a></h3>
                                     <div class="blog-carousel-meta">
                                         <span><i class="fa fa-calendar"></i> October 01, 2017</span>
 
@@ -361,7 +322,7 @@
                                 <div class="blog-carousel-desc">
                                     <p>Class aptent torquent per conubia nostra, per inceptos himenaeos. Aenean vel faucibus nunc, et venenatis magna. In hac habitasse platea dictumst. </p>
                                 </div><!-- end blog-carousel-desc -->
-                                <a href="blog-noticia.html" class="btn btn-dark btn-sm">Seguir Leyendo...</a>
+                                <a href="blog-noticia.php" class="btn btn-dark btn-sm">Seguir Leyendo...</a>
                             </div><!-- end blog-carousel -->
                         </div><!-- end col -->
                     </div>
@@ -403,9 +364,9 @@
                         <ul class="recent_posts_widget">
                             <li>
                                 <img src="demos/footer_img_01.png" alt="" />
-                                <h4><a href="blog-noticia.html">Temporibus autem quibusdam et aut</a></h4>
+                                <h4><a href="blog-noticia.php">Temporibus autem quibusdam et aut</a></h4>
                                 <span>Febrero 16, 2017</span>
-                                <a class="readmore" href="blog-noticia.html" title="">Seguir leyendo</a>
+                                <a class="readmore" href="blog-noticia.php" title="">Seguir leyendo</a>
                             </li>
                            
                         </ul><!-- recent posts -->  
@@ -419,9 +380,9 @@
                         <ul class="recent_posts_widget">
                             <li>
                                 <img src="demos/footer_img_01.png" alt="" />
-                                <h4><a href="blog-noticia.html">Temporibus autem quibusdam et aut</a></h4>
+                                <h4><a href="blog-noticia.php">Temporibus autem quibusdam et aut</a></h4>
                                 <span>Abril 16, 2017</span>
-                                <a class="readmore" href="blog-noticia.html" title="">Seguir leyendo</a>
+                                <a class="readmore" href="blog-noticia.php" title="">Seguir leyendo</a>
                             </li>
                            
                         </ul><!-- recent posts -->  
