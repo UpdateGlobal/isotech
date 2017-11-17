@@ -213,7 +213,24 @@
                         </div>
                         </div><!-- end gallery item -->
                     </div><!-- end col -->
-              
+               <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                        <div class="gallery_item">
+                        <div class="entry">
+                            <img src="images/teflon/7.jpg" alt="" class="img-responsive">
+                            <div class="magnifier custom-magnifier">
+                                <div class="buttons">
+                                    <!-- <a class="sg" rel="bookmark" href="contacto.html"><i class="fa fa-link"></i></a> -->
+                                    <a class="st" rel="bookmark" href="contacto.php"><i class="fa fa-shopping-cart"></i></a>
+                                    <h4>Solicitar</h4>
+                                </div><!-- end buttons -->
+                            </div><!-- end magnifier -->
+                        </div><!-- end entry -->
+                        <div class="mini-title">
+                            <h4>PRODUCTO</h4>
+                            
+                        </div>
+                        </div><!-- end gallery item -->
+                    </div>
                 </div><!-- end grid_gallery -->
 
                 
