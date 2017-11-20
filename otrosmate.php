@@ -265,27 +265,27 @@
                     </div><!-- end title -->
 					<ul class="recent_posts_widget">
                         <li>
-                        <a href="#"><img src="images/barnices/1.jpg" alt="" /><strong>BARNICES</strong></a>
+                        <a href="barnices.php"><img src="images/barnices/1.jpg" alt="" /><strong>BARNICES</strong></a>
                         <a class="readmore_widget" href="barnices.php">Visitar Galería</a>
 
                         </li>
                         <li>
-                        <a href="#"><img src="images/placas/1.jpg" alt="" /><strong>PLACAS AISLANTES</strong></a>
+                        <a href="placasaislantes.php"><img src="images/placas/1.jpg" alt="" /><strong>PLACAS AISLANTES</strong></a>
                             <a class="readmore_widget" href="placasaislantes.php">Visitar Galería</a>
 
                         </li>
                         <li>
-                        <a href="#"><img src="images/teflon/1.jpg" alt="" /><strong>TEFLÓN</strong></a>
+                        <a href="teflon.php"><img src="images/teflon/1.jpg" alt="" /><strong>TEFLÓN</strong></a>
                         <a class="readmore_widget" href="teflon.php">Visitar Galería</a>
 
                         </li>
                         <li>
-                        <a href="#"><img src="images/silicona/1.jpg" alt="" /><strong>SILICONA</strong></a>
+                        <a href="teflon.php"><img src="images/silicona/1.jpg" alt="" /><strong>SILICONA</strong></a>
                             <a class="readmore_widget" href="silicona.php">Visitar Galería</a>
 
                         </li>
                           <li>
-                        <a href="#"><img src="images/otrosmate/1.jpg" alt="" /><strong>OTROS MATERIALES AISLANTES</strong></a>
+                        <a href="otrosmate.php"><img src="images/otrosmate/1.jpg" alt="" /><strong>OTROS MATERIALES AISLANTES</strong></a>
                             <a class="readmore_widget" href="otrosmate.php">Visitar Galería</a>
                         </li>
 					</ul><!-- recent posts -->  
