@@ -344,7 +344,7 @@
                                 <div class="magnifier">
                                     <div class="buttons">
                                      <!--    <a class="st" rel="bookmark" href="barnices.html"><i class="fa fa-link"></i></a> -->
-                                        <a class="st" rel="bookmark" href="barnices.html"><i class="fa fa-eye"></i></a>
+                                        <a class="st" rel="bookmark" href="barnices.php"><i class="fa fa-eye"></i></a>
                                     </div><!-- end buttons -->
                                 </div><!-- end magnifier -->
                             </div><!-- end entry -->
@@ -370,7 +370,7 @@
                                 <div class="magnifier">
                                     <div class="buttons">
                                         <!-- <a class="st" rel="bookmark" href="blog-single.html"><i class="fa fa-link"></i></a> -->
-                                        <a class="st" rel="bookmark" href="barnices.html"><i class="fa fa-eye"></i></a>
+                                        <a class="st" rel="bookmark" href="placasaislantes.php"><i class="fa fa-eye"></i></a>
                                     </div><!-- end buttons -->
                                 </div><!-- end magnifier -->
                             </div><!-- end entry -->
@@ -396,7 +396,7 @@
                                 <div class="magnifier">
                                     <div class="buttons">
                                         <!-- <a class="st" rel="bookmark" href="blog-single.html"><i class="fa fa-link"></i></a> -->
-                                        <a class="st" rel="bookmark" href="barnices.html"><i class="fa fa-eye"></i></a>
+                                        <a class="st" rel="bookmark" href="teflon.php"><i class="fa fa-eye"></i></a>
                                     </div><!-- end buttons -->
                                 </div><!-- end magnifier -->
                             </div><!-- end entry -->
@@ -422,7 +422,7 @@
                                 <div class="magnifier">
                                     <div class="buttons">
                                         <!-- <a class="st" rel="bookmark" href="blog-single.html"><i class="fa fa-link"></i></a> -->
-                                        <a class="st" rel="bookmark" href="barnices.php"><i class="fa fa-eye"></i></a>
+                                        <a class="st" rel="bookmark" href="silicona.php"><i class="fa fa-eye"></i></a>
                                     </div><!-- end buttons -->
                                 </div><!-- end magnifier -->
                             </div><!-- end entry -->
@@ -448,7 +448,7 @@
                                 <div class="magnifier">
                                     <div class="buttons">
                                         <!-- <a class="st" rel="bookmark" href="blog-single.html"><i class="fa fa-link"></i></a> -->
-                                        <a class="st" rel="bookmark" href="barnices.php"><i class="fa fa-eye"></i></a>
+                                        <a class="st" rel="bookmark" href="otrosmate.php"><i class="fa fa-eye"></i></a>
                                     </div><!-- end buttons -->
                                 </div><!-- end magnifier -->
                             </div><!-- end entry -->
